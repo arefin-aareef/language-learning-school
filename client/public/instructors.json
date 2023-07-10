@@ -1,0 +1,45 @@
+[
+    {
+      "_id": "1",
+      "instructorName": "John Smith",
+      "email": "john.smith@example.com",
+      "image": "https://example.com/image1.jpg",
+      "numberOfStudents": 50
+    },
+    {
+      "_id": "2",
+      "instructorName": "Emma Johnson",
+      "email": "emma.johnson@example.com",
+      "image": "https://example.com/image2.jpg",
+      "numberOfStudents": 40
+    },
+    {
+      "_id": "3",
+      "instructorName": "Michael Davis",
+      "email": "michael.davis@example.com",
+      "image": "https://example.com/image3.jpg",
+      "numberOfStudents": 35
+    },
+    {
+      "_id": "4",
+      "instructorName": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "image": "https://example.com/image4.jpg",
+      "numberOfStudents": 45
+    },
+    {
+      "_id": "5",
+      "instructorName": "David Thompson",
+      "email": "david.thompson@example.com",
+      "image": "https://example.com/image5.jpg",
+      "numberOfStudents": 30
+    },
+    {
+      "_id": "6",
+      "instructorName": "Emily Adams",
+      "email": "emily.adams@example.com",
+      "image": "https://example.com/image6.jpg",
+      "numberOfStudents": 25
+    }
+  ]
+  

@@ -1,0 +1,51 @@
+[
+    {
+      "_id": "1",
+      "image": "https://example.com/image1.jpg",
+      "name": "Spanish Language Course",
+      "instructorName": "John Smith",
+      "availableSeats": 10,
+      "price": 19.99
+    },
+    {
+      "_id": "2",
+      "image": "https://example.com/image2.jpg",
+      "name": "French Language Course",
+      "instructorName": "Emma Johnson",
+      "availableSeats": 8,
+      "price": 14.99
+    },
+    {
+      "_id": "3",
+      "image": "https://example.com/image3.jpg",
+      "name": "German Language Course",
+      "instructorName": "Michael Davis",
+      "availableSeats": 15,
+      "price": 9.99
+    },
+    {
+      "_id": "4",
+      "image": "https://example.com/image4.jpg",
+      "name": "Italian Language Course",
+      "instructorName": "Sarah Wilson",
+      "availableSeats": 12,
+      "price": 24.99
+    },
+    {
+      "_id": "5",
+      "image": "https://example.com/image5.jpg",
+      "name": "Japanese Language Course",
+      "instructorName": "David Thompson",
+      "availableSeats": 20,
+      "price": 29.99
+    },
+    {
+      "_id": "6",
+      "image": "https://example.com/image6.jpg",
+      "name": "Chinese Language Course",
+      "instructorName": "Emily Adams",
+      "availableSeats": 6,
+      "price": 34.99
+    }
+  ]
+  
